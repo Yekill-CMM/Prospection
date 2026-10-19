@@ -25,5 +25,5 @@
 | Vie 23/10 | Dirección General de Concesiones de Obras Públicas del Ministerio de Obras Públicas | marcela.hernandez@mop.gov.cl | Minería | 400 | Variantes de la Concesión Ruta 66 Camino de la Fruta | En Calificación | En espera |
 | Vie 23/10 | Las Mellizas Generación SpA. | fparedes@ciudadluz.cl | Energía | 400 | Planta Fotovoltaica Las Mellizas | En Calificación | En espera; 3 proyectos |
 | Vie 23/10 | Coyanco SpA | carlos.espinosa@cmpc.com | Energía | 370 | Parque eólico Coyanco | En Calificación | En espera |
-| Vie 23/10 | CERRO BLANCO SPA | acerroelplomo@gmail.com | Energía | 350 | Parque Solar Pullalli | En Calificación | En espera |
-| Vie 23/10 | Plus Energia Spa | andres.garafulich@gmail.com | Energía | 350 | Sistema de Almacenamiento de Energía Eléctrica Tipo BESS - Camarones | En Calificación | En espera |
+| Vie 23/10 | CERRO BLANCO SPA | acerroelplomo@gmail.com | Energía | 350 | Parque Solar Pullalli | En Calificación | Validar 1º (Gmail) |
+| Vie 23/10 | Plus Energia Spa | andres.garafulich@gmail.com | Energía | 350 | Sistema de Almacenamiento de Energía Eléctrica Tipo BESS - Camarones | En Calificación | Validar 1º (Gmail) |
